@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SecondApplication</string>
+    <string name="score">Ваш результат:</string>
+    <string name="questions_text">Питання №0</string>
+    <string name="true_button">Вірно</string>
+    <string name="false_button">Хибно</string>
+    <string name="incorrect">Ваша відповідь хибна</string>
+    <string name="correct">Ваша відповідь вірна</string>
+    <string name="next_button">Наступне запитання</string>
+    <string name="questions_text3">питання №3</string>
+    <string name="questions_text2">питання №2</string>
+    <string name="questions_text1">питання №1</string>
+    <string name="show_answer_button">показати відповідь</string>
+    <string name="cheat">чітерство!!!</string>
+    <string name="EXTRA_QUESTION">com.example.kovalchyk_at.secondapplication.mQuestion</string>
+    <string name="EXTRA_QUESTION_ANSWER">com.example.kovalchyk_at.secondapplication.mAnswer</string>
+</resources>
